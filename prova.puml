@@ -1,5 +1,4 @@
 @startuml
-	"plantuml.server" : "http://www.plantuml.com/"
     skinparam backgroundColor #EEEBDC
     skinparam handwritten true
     actor Customer

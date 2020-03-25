@@ -1,4 +1,4 @@
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/alericciuto/Lab1/blob/master/prova.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/alericciuto/Lab1/master/prova.puml)
 
 # Official Requirements Document
 
